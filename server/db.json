@@ -1,0 +1,14 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "content": "Esse culpa excepteur quis cillum ut in deserunt consectetur quis eu. Enim pariatur ex nisi magna fugiat sit do quis nisi officia sunt ipsum. Nulla commodo eiusmod tempor ad id esse reprehenderit ipsum ut consectetur culpa culpa ipsum ex. Est ut ipsum irure reprehenderit ut laborum cupidatat. Eu dolore commodo veniam fugiat elit consectetur cupidatat elit.",
+            "author": "Gosho"
+        },
+        {
+            "id": 2,
+            "content": "Esse culpa excepteur quis cillum ut in deserunt consectetur quis eu. Enim pariatur ex nisi magna fugiat sit do quis nisi officia sunt ipsum. Nulla commodo eiusmod tempor ad id esse reprehenderit ipsum ut consectetur culpa culpa ipsum ex. Est ut ipsum irure reprehenderit ut laborum cupidatat. Eu dolore commodo veniam fugiat elit consectetur cupidatat elit.",
+            "author": "Gosho"
+        }
+    ]
+}
